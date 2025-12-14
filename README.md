@@ -1,2 +1,2 @@
 # GravSim
-Beginner simulation of orbital motion
+Simulation of orbital motion
